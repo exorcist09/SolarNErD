@@ -15,5 +15,7 @@ This is my first Web development project with first version
 **Things to be included in (V.2)**
 * To add A solar system preview instead of a video.
 * Add a earth and mars combination in 2 section.
-* 
+* Add a login page with google to send you notifications.
+* Add an API of google maps and satellite systems for proper representation of location and time of mars and earth.
+*  
  
