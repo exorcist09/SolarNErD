@@ -1,9 +1,10 @@
-# SolarNErD
-A website for Cosmos Addict
+## ![solarNerd_white](https://github.com/exorcist09/SolarNErD/assets/124388283/56248ebb-042e-4675-92dc-ad11b645077f)
+A website for Astronomy and Cosmos Addict
 
 This is my first Web development project with first version
 
-## SolarNErD
+
+
    **(V.1)**
 *  Contains the Video loop of solar system.
 *  The website is divided in 5 sections.
