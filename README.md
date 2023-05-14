@@ -1,8 +1,7 @@
-## ![solarNerd_white](https://github.com/exorcist09/SolarNErD/assets/124388283/56248ebb-042e-4675-92dc-ad11b645077f)
+![SolarNED(1)(1)](https://github.com/exorcist09/SolarNErD/assets/124388283/00c6834c-d3a6-46da-aac1-95f66b3602fe)
 A website for Astronomy and Cosmos Addict
 
 This is my first Web development project with first version
-
 
 
    **(V.1)**
